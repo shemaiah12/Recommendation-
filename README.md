@@ -1,4 +1,4 @@
-# Recommendation-# Laptop Recommendation
+# Recommendation-# Mikes Recommendation
 
 ## Option 1: Acer Aspire 5
 ![Alt Text](laptop.jpg)
@@ -44,3 +44,11 @@ You can include links by using the [link text](https://www.example.com) syntax. 
 
 Enjoy creating your GitHub Pages website!
 
+shemaiah's recommendations
+
+Lenovo 14" FHD Ideapad 3
+Primary Resources:
+- CPU: Intel Mobile CPU
+- Number of Processors:11th Gen Intel Core i3-1115G4, 2 Cores
+- RAM: 20 GB
+- Hard Drive Storage: 	‎512 GB SSD
