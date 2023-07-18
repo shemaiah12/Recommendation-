@@ -1,4 +1,4 @@
-# Recommendation-# CFO's Recommendation
+# CFO's Recommendation
 
 ## Option 1: Acer Aspire 5
 ![Alt Text](laptop.jpg)
