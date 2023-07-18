@@ -11,6 +11,8 @@ Primary Resources:
 - Hard Drive Storage: 512GB SSD
 
 ## Option 2: Lenovo IdeaPad 3
+![image](laptop1.jpg)
+
 Primary Resources:
 - CPU: Intel Core i5-1135G7 (CPU benchmark score: X)
 - Number of Processors: Quad-core
