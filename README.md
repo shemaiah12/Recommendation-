@@ -45,7 +45,7 @@ You can include links by using the [link text](https://www.example.com) syntax. 
 Enjoy creating your GitHub Pages website!
 
 shemaiah's recommendations
-
+![image](laptop2.jpg)
 Lenovo 14" FHD Ideapad 3
 Primary Resources:
 - CPU: Intel Mobile CPU
