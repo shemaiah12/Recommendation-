@@ -21,30 +21,6 @@ Primary Resources:
 - RAM: 12GB DDR4
 - Hard Drive Storage: 256GB SSD
 
-### Recommendation
-Based on the provided options, I recommend choosing the Lenovo IdeaPad 3 due to its higher RAM capacity, falling within the budget, and still offering enhanced specifications.
-
-#### Additional Information
-For more details, you can refer to the [GitHub Pages documentation](https://docs.github.com/pages) and the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/).
-
-##### Emphasis
-You can add emphasis to your text using **bold** or *italic* formatting.
-
-###### Lists
-You can create ordered lists:
-1. Item 1
-2. Item 2
-3. Item 3
-
-Or unordered lists:
-- Item A
-- Item B
-- Item C
-
-####### Links and Images
-You can include links by using the [link text](https://www.example.com) syntax. To include images, use the ![Alt Text](image_url) syntax.
-
-Enjoy creating your GitHub Pages website!
 
 # Shemaiah's Recommendation
 
