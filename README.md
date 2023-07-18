@@ -49,6 +49,11 @@ shemaiah's recommendations
 
 
 
+
+
+
+
+
 Lenovo 14" FHD Ideapad 3
 Primary Resources:
 - CPU: Intel Mobile CPU
