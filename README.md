@@ -44,7 +44,7 @@ You can include links by using the [link text](https://www.example.com) syntax. 
 
 Enjoy creating your GitHub Pages website!
 
-**shemaiah's recommendations**
+**Shemaiah's Recommendations**
 
 
 
