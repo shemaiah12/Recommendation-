@@ -1,4 +1,4 @@
-# Recommendation-# Mikes Recommendation
+# Recommendation-# CFO's Recommendation
 
 ## Option 1: Acer Aspire 5
 ![Alt Text](laptop.jpg)
@@ -9,6 +9,8 @@ Primary Resources:
 - Number of Processors: Quad-core
 - RAM: 8GB DDR4
 - Hard Drive Storage: 512GB SSD
+
+  # Mikes Recommendation
 
 ## Option 2: Lenovo IdeaPad 3
 ![image](laptop1.jpg)
@@ -44,7 +46,7 @@ You can include links by using the [link text](https://www.example.com) syntax. 
 
 Enjoy creating your GitHub Pages website!
 
-**Shemaiah's Recommendations**
+# Shemaiah's Recommendation
 
 
 
