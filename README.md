@@ -1,6 +1,9 @@
 # Recommendation-# Laptop Recommendation
 
 ## Option 1: Acer Aspire 5
+![Alt Text](laptop.jpg)
+
+
 Primary Resources:
 - CPU: Intel Core i5-1135G7 (CPU benchmark score: X)
 - Number of Processors: Quad-core
